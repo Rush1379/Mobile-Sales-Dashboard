@@ -28,8 +28,13 @@ Dashboards Insights Include
 - Yearly Performance Charts
 - Performance Trends and Deviations
 
+DAX:- 
 - DAX (Data Analysis Expressions) was used throughout your Power BI dashboard to calculate KPIs, analyze time-based trends, and build interactive visuals.
 - Used DAX to calculate Total Sales, Total Quantity, Average Price, Total MTD and many.
+
+DATA MODELING:- 
+- Used Data modeling for structuring data tables and to build relationships to enable efficient calculations, filtering, and visual interactions.
+- Data modeling played a key foundational role in how everything connects and works behind the scenes.
 
 
 Payment Methods Used:-
